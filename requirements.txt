@@ -2,7 +2,6 @@ pandas
 streamlit
 langfuse
 python-dotenv
-langfuse
 pycaret
 pydantic
 instructor
